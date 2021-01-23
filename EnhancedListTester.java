@@ -3,7 +3,7 @@ public class EnhancedListTester {
 	public static void main(String[] args) {
 		SinglyLinkedList<String> l = new SinglyLinkedList<String>();
 
-		System.out.println("Enhanced List Tester – Team Member 1, Team Member 2, Team Member 3, ...\n");
+		System.out.println("Enhanced List Tester – Joseph Araujo, Munad Hassan, Jeffrey Knutsen, Zain Nenad\n");
 		
 		System.out.println(l);
 		l.removeFirst();
